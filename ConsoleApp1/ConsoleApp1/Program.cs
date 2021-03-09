@@ -16,9 +16,6 @@ namespace ConsoleApp1
 
             //fruit.welcome();
 
-            Console.WriteLine("\t\t\t---------------------------------");
-            Console.WriteLine("\t\t\t   TESTING");
-            Console.WriteLine("\t\t\t---------------------------------\n");
 
             //Console.WriteLine(papaya.welcome);
             Console.WriteLine(papaya.papaya + " " + papaya.size);
