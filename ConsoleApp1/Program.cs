@@ -54,7 +54,7 @@ namespace ConsoleApp1
                         break;
 
                     default:
-                        Console.WriteLine("\nNo selected item. Please try again.\n");
+                        Console.WriteLine("\nNo selected item. Please try again. Thank you.\n");
                         break;
                 }
 
